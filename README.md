@@ -1,1 +1,1 @@
-# ecommerce_sale-
+ecommerce sale analysis using sql and python
